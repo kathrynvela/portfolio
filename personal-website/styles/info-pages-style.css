@@ -1,0 +1,96 @@
+html, body {
+  overflow-x: hidden;
+  background-color: #f7d6bf !important;
+  font-family: 'Lato', sans-serif;
+  padding-top: 70px;
+  width: 80vw;
+  margin: 0 auto;
+}
+
+.homepage {
+  background-color: #b0cac7;
+}
+
+/*Header Styling*/
+header {
+  margin: 0 -9999rem 2rem -9999rem;
+  /* add back negative margin value */
+  padding: 2rem 9999rem 3rem 9999rem;
+}
+
+main {
+  margin: auto;
+}
+
+.lib-bio {
+  margin: 0 auto 3rem auto;
+  width: 60%
+}
+
+.lib-skills {
+  width: 100%;
+}
+
+.subtitle {
+  font-size: 1.5rem;
+}
+
+.lib-position-icon {
+  padding-right: 8px;
+}
+
+.lib-position {
+  margin: 0 auto 3rem auto;
+  width: 60%;
+}
+
+.experience {
+  background-color: #318fb5;
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+  color: #f7d6bf;
+  margin-left: -1rem;
+  margin-right: -1rem;
+}
+
+.check-out {
+  padding-bottom: 2rem;
+}
+
+.card-deck {
+  margin-top: 1.5rem;
+  margin-bottom: 3rem;
+  width: 85%;
+}
+
+.card {
+  background-color: #f7d6bf !important;
+  color: #005086;
+}
+
+.card-img-top {
+  padding-top: 1.5rem;
+}
+
+.btn-primary {
+  background-color: #005086 !important;
+  outline: #005086 !important;
+}
+
+.btn-primary:hover {
+  background-color: #f7d6bf !important;
+  color: #005086 !important;
+}
+
+.contact {
+  padding-top: 2rem;
+}
+
+.fa-3x {
+  padding: 0.75rem 1.5rem;
+  color: #318fb5;
+}
+
+.fa-3x:hover {
+  color: #005086;
+}

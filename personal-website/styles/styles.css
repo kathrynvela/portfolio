@@ -1,0 +1,81 @@
+html, body {
+  overflow-x: hidden;
+  background-color: #f6f6f6 !important;
+  font-family: 'Lato', sans-serif;
+}
+
+.homepage {
+  background-color: #b0cac7;
+}
+
+/*Header Styling*/
+header {
+  margin: 0 -9999rem 2rem -9999rem;
+  /* add back negative margin value */
+  padding: 2rem 9999rem 2rem 9999rem;
+}
+
+.subtitle {
+  font-size: 1.5rem;
+  margin: 0 auto;
+  line-height: 3rem;
+  font-family: 'Karla', sans-serif;
+}
+
+.experience {
+  /*background-color: #318fb5;*/
+  padding-top: 1rem;
+  padding-bottom: 6rem;
+  color: #f9f9f9;
+  margin-left: -1rem;
+  margin-right: -1rem;
+}
+
+.card-deck {
+  margin-top: 1.5rem;
+  margin-bottom: 3rem;
+}
+
+.card {
+  background-color: #318fb5 !important;
+  width: 18rem;
+  color: #f6f6f6;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+h5 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.card-img-top {
+  padding-top: 2rem;
+}
+
+.btn-primary {
+  background-color: #202C39 !important;
+  outline: #202C39 !important;
+  padding-top: 2rem;
+}
+
+.btn-primary:hover {
+  background-color: #f6f6f6 !important;
+  color: #202C39 !important;
+}
+
+.contact {
+  padding-top: 2rem;
+  padding-bottom: 4rem;
+  font-family: 'Karla', sans-serif;
+}
+
+
+.fa-3x {
+  padding: 0.75rem 1.5rem;
+  color: #318fb5;
+}
+
+.fa-3x:hover {
+  color: #005086;
+}
